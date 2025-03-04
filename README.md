@@ -6,8 +6,8 @@ This project is a simple RESTful API for managing users and products.
 
 1. Clone the repository:
 ```bash
-git clone <reposi>
-cd <project_directory>
+git clone https://github.com/Hedmon0094/express-assignment.git
+cd express-assignment
 ```
 
 2. Install dependencies:
